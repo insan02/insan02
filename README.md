@@ -5,7 +5,6 @@ Welcome to my Digital Universe! 🚀
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Web+Development+Enthusiast+🌐;Always+Learning+New+Things!+✨"/>
 </div>
 
-<div align="center">
 🚀 About Me
 </div>
 <table align="center">
