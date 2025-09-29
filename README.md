@@ -1,8 +1,8 @@
 <div align="center">
 🌟 Hi there! I'm Nurul Insan 👋
 Welcome to my Digital Universe! 🚀
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nurul%20Insan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=PHP%20Laravel%20Developer%20|%20Information%20Systems%20Graduate&descSize=16&descAlignY=51&descAlign=50"/>
-Show Image
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nurul%20Insan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20|%20PHP%20Laravel%20|%20Information%20Systems%20Graduate&descSize=16&descAlignY=51&descAlign=50"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Web+Development+Enthusiast+🌐;Always+Learning+New+Things!+✨"/>
 </div>
 
 <div align="center">
@@ -11,12 +11,13 @@ Show Image
 <table align="center">
 <tr>
 <td>
+
 🎓 Fresh Graduate in Information Systems from Universitas Andalas (GPA: 3.78/4.00)
 💻 PHP Laravel Developer passionate about creating efficient and scalable web applications
 🌱 Currently expanding my skills in modern web development technologies and API development
 📍 Based in Bukittinggi, West Sumatra, Indonesia 🏔️
-⚡ Fun fact: I love turning complex problems into simple, beautiful solutions!
 🎯 Goal: Building innovative web solutions that make a positive impact
+
 </td>
 <td width="300">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding GIF"/>
