@@ -11,7 +11,7 @@
 🎓 **Fresh Graduate** in Information Systems from Universitas Andalas 
 💻 **PHP Laravel Developer** passionate about creating efficient web applications  
 🌱 Currently expanding my skills in **modern web development technologies**  
-📍 Based in **Padang, West Sumatra, Indonesia**
+📍 Based in **Bukittinggi, West Sumatra, Indonesia**
 
 ---
 
@@ -80,3 +80,4 @@
 ---
 
 ⭐️ **Thanks for visiting my profile!** Feel free to explore my repositories and don't forget to star ⭐ the ones you find interesting!
+
