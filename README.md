@@ -8,21 +8,12 @@ Welcome to my Digital Universe! 🚀
 ## 🚀 About Me
 
 <div align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF"/>
-
-### 👨‍💻 Who Am I?
-
-🎓 **Fresh Graduate** in Information Systems from **Universitas Andalas**
-
-💻 **PHP Laravel Developer** passionate about efficient & scalable web applications
-
-🌱 **Currently Learning** modern web technologies & API development
-
-📍 **Based in** Bukittinggi, West Sumatra, Indonesia 🏔️
-
-🎯 **Mission:** Building innovative web solutions that make a positive impact
-
-</div>
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF"/>
+</td>
+<td align="left" width="50%">
 
 ### 👨‍💻 Who Am I?
 
