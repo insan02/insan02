@@ -7,22 +7,44 @@ Welcome to my Digital Universe! 🚀
 
 ## 🚀 About Me
 
-<table align="center">
-<tr>
-<td>
+<div align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF"/>
 
-- 🎓 Fresh Graduate in Information Systems from Universitas Andalas
-- 💻 PHP Laravel Developer passionate about creating efficient and scalable web applications
-- 🌱 Currently expanding my skills in modern web development technologies and API development
-- 📍 Based in Bukittinggi, West Sumatra, Indonesia 
-- 🎯 Goal: Building innovative web solutions that make a positive impact
+### 👨‍💻 Who Am I?
 
-</td>
-<td width="300">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding GIF"/>
+🎓 **Fresh Graduate** in Information Systems from **Universitas Andalas**
+
+💻 **PHP Laravel Developer** passionate about efficient & scalable web applications
+
+🌱 **Currently Learning** modern web technologies & API development
+
+📍 **Based in** Bukittinggi, West Sumatra, Indonesia 🏔️
+
+🎯 **Mission:** Building innovative web solutions that make a positive impact
+
+</div>
+
+### 👨‍💻 Who Am I?
+
+🎓 **Fresh Graduate** in Information Systems  
+📍 Universitas Andalas
+
+💻 **PHP Laravel Developer**  
+🔥 Passionate about efficient & scalable web apps
+
+🌱 **Currently Learning**  
+⚡ Modern web technologies & API development
+
+📍 **Location**  
+🏔️ Bukittinggi, West Sumatra, Indonesia
+
+🎯 **Mission**  
+🚀 Building innovative web solutions
+
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -31,11 +53,11 @@ Welcome to my Digital Universe! 🚀
 <div align="center">
 
 ### Languages & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -45,7 +67,6 @@ Welcome to my Digital Universe! 🚀
 ### Design & Development Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
 
@@ -81,13 +102,13 @@ Welcome to my Digital Universe! 🚀
 ---
 
 <div align="center">
-  
-### 💡 *"Stay Learning"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=insan02&color=blueviolet&style=flat-square&label=Profile+Views)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-</div>
+### 👀 Profile Views
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=insan02&color=blueviolet&style=for-the-badge&label=VISITORS)
 
 ⭐️ **Thanks for visiting my profile!** Feel free to explore my repositories and don't forget to star ⭐ the ones you find interesting!
+
+</div>
