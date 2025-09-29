@@ -11,11 +11,11 @@ Welcome to my Digital Universe! 🚀
 <tr>
 <td>
 
-🎓 Fresh Graduate in Information Systems from Universitas Andalas
-💻 PHP Laravel Developer passionate about creating efficient and scalable web applications
-🌱 Currently expanding my skills in modern web development technologies and API development
-📍 Based in Bukittinggi, West Sumatra, Indonesia 🏔️
-🎯 Goal: Building innovative web solutions that make a positive impact
+- 🎓 Fresh Graduate in Information Systems from Universitas Andalas
+- 💻 PHP Laravel Developer passionate about creating efficient and scalable web applications
+- 🌱 Currently expanding my skills in modern web development technologies and API development
+- 📍 Based in Bukittinggi, West Sumatra, Indonesia 
+- 🎯 Goal: Building innovative web solutions that make a positive impact
 
 </td>
 <td width="300">
@@ -91,4 +91,3 @@ Welcome to my Digital Universe! 🚀
 ---
 
 ⭐️ **Thanks for visiting my profile!** Feel free to explore my repositories and don't forget to star ⭐ the ones you find interesting!
-
