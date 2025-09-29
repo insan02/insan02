@@ -12,7 +12,7 @@ Welcome to my Digital Universe! 🚀
 <tr>
 <td>
 
-🎓 Fresh Graduate in Information Systems from Universitas Andalas (GPA: 3.78/4.00)
+🎓 Fresh Graduate in Information Systems from Universitas Andalas
 💻 PHP Laravel Developer passionate about creating efficient and scalable web applications
 🌱 Currently expanding my skills in modern web development technologies and API development
 📍 Based in Bukittinggi, West Sumatra, Indonesia 🏔️
